@@ -50,7 +50,38 @@ Yeh CSS Complete Tutorial Series beginners ke liye specially design ki gayi hai 
 ### Mini Project
 - Hover effects + animated buttons
 
+## Leve 5 - Advanced CSS (Pro Level)
+- CSS Variables (custom properties)
+- Advanced Selectors
+- Clamp(), Calc()
+- Object-fit
+- Aspect-ratio
+- CSS Function
+- Scroll snapping
+- Custom Scrollbars
 
+### Mini Project
+- Dashboard UI with variable & grid
+
+## Level 6 - Modern CSS (Architecture)
+- BEM methodology
+- CSS architecture (SMACSS)
+- Utility-first concept (Tailwind idea samjho)
+- Theming System
+- CSS for Accessibility
+  - Focus
+  - State
+  - Contrast
+
+### Mini Project
+- Light/Dark mode toggle UI
+
+## Performance & Best Practices
+- Minify CSS
+- Reusable Classes
+- Avoid inline CSS
+- Reduce reflows
+- CSS Debuggin
 
 
 
