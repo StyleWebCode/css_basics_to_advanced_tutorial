@@ -3,11 +3,11 @@
 Yeh CSS Complete Tutorial Series beginners ke liye specially design ki gayi hai jo zero se start karke advanced level tak CSS seekhna chahte hain. Is course me tum web pages ko design, layout, animation & responsive aur professional UI banana step-by-step seekhoge.
 
 ## Level 1 - CSS Basics (Foundation Skills)
-- Introduction
-- Selectors (element, class, id and universal)
-- Color and Units (px, %, em, rem)
-- Backgrounds (color & image)
-- Text & Fonts (font-family, font-size, font-weight)
+- [Introduction](#Introduction)
+- Selectors
+- Color and Units 
+- Backgrounds
+- Text & Fonts
 - Box model (margin, padding, border)
 - Height, Width and Overflow
 - Display (block, inline, inline-block and none)
@@ -83,8 +83,14 @@ Yeh CSS Complete Tutorial Series beginners ke liye specially design ki gayi hai 
 - Reduce reflows
 - CSS Debuggin
 
+## Introduction
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+- External stylesheets are stored in CSS files
 
-
-
+- External CSS - link to an external .css file
+- Internal CSS - use the <style> element in the head section
+- Inline CSS - use the style attribute on HTML elements
 
 
